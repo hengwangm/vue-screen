@@ -1,0 +1,46 @@
+.el-table td,
+.el-table th {
+  padding: 2px 0 !important;
+}
+
+.el-table thead {
+  color: #E6EEFF;
+}
+
+.el-table tr {
+  background-color: #2B2838;
+}
+
+.el-table th {
+  background-color: #273659;
+}
+
+.el-table td,
+.el-table th.is-leaf {
+  border: 0;
+}
+
+.el-table--striped .el-table__body tr.el-table__row--striped td {
+  background: #273659 !important;
+}
+
+.el-table--enable-row-hover .el-table__body tr:hover>td {
+  background-color: inherit;
+}
+
+.el-table::before {
+  background-color: transparent;
+}
+
+.el-table {
+  color: #5682E4;
+}
+
+.el-table--striped .el-table__body tr.el-table__row--striped.current-row td,
+.el-table__body tr.current-row>td,
+.el-table__body tr.hover-row.current-row>td,
+.el-table__body tr.hover-row.el-table__row--striped.current-row>td,
+.el-table__body tr.hover-row.el-table__row--striped>td,
+.el-table__body tr.hover-row>td {
+  background-color: transparent;
+}
