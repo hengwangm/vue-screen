@@ -21,6 +21,9 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
+![]https://github.com/hengwangm/vue-screen/blob/master/src/assets/1.png)
+![](https://github.com/hengwangm/vue-screen/blob/master/src/assets/2.png)
+
 ├── build                      // 构建相关  
 ├── config                     // 配置相关
 ├── src                        // 源代码
@@ -48,3 +51,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ├── favicon.ico                // favicon图标
 ├── index.html                 // html模板
 └── package.json               // package.json
+
+
